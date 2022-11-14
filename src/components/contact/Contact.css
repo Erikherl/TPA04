@@ -1,0 +1,21 @@
+addons{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    color:white;
+}
+
+.games h3{
+    text-align:center;
+}
+
+addons .socmed{
+    align-self: flex-start;
+}
+.socmed h3{
+    text-align: center;
+}
+.socmed svg{
+    margin: 0 1vw;
+}

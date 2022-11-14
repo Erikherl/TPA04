@@ -1,0 +1,19 @@
+.blog-container{
+    margin:0 5vw;
+}
+
+.Collapsible{
+    background-color: #003952;
+}
+.Collapsible__contentInner{
+    background-color: #121212;
+    border: 1px solid #003952;
+}
+.Collapsible__contentOuter{
+    height: 3vh;
+}
+
+.collapse-content p{
+    line-height: 4vh;
+ }
+

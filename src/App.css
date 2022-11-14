@@ -1,5 +1,7 @@
 .App {
-  text-align: center;
+  margin:auto;
+  background-color: #121212;
+  color:white;
 }
 
 .App-logo {
@@ -35,4 +37,21 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.head-nav{
+  background-image: url("./assets/SkyDarkBackground.jpg");
+  background-size: cover;
+  height: 10rem;
+
+  display:flex;
+  flex-direction: column;
+  align-items: center;
+}
+.head-nav h4{
+  color:white;
+}
+#head-nav-icon{
+  margin-top: 1rem;
+  width: 50px;
 }
